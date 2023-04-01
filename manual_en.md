@@ -51,3 +51,5 @@
 25. git fetch - Downloading changes from a remote or local repository to your local repository without merging. 
 
 26. git clone https://github.com/... - Clone remote repository. 
+
+27. git commit -am "Commit message" - Add all files and directories to tracking and make a new commit. (git add . + git commit).
